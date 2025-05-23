@@ -58,13 +58,12 @@ The goal is to visualize and interpret how various factors—such as weather, al
 
 **Nehal Ashraf**  
 📌 Data Engineer | Specialized in data pipeline design, analytics & dashboard development  
-🔗 [LinkedIn Profile]((https://www.linkedin.com/in/nehal-ashraf22/)) *(replace with your actual profile)*
+🔗 [LinkedIn Profile]((https://www.linkedin.com/in/nehal-ashraf22/)) 
 
 ---
 
 ## 📎 Screenshot
 
-![Dashboard Preview](path-to-dashboard-image.png)
 
 ---
 
